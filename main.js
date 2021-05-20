@@ -8,7 +8,7 @@ console.log(exo1.innerHTML);
 
 //3
 let exo3 = exo1.nextElementSibling;
-exo3.innerHTML = "Exercice1";
+exo3.innerHTML = `exo1.innerHTML = "Exercice1";`;
 console.log(exo3.innerHTML);
 
 //4
